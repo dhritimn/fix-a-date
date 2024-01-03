@@ -19,6 +19,9 @@ https://lets-hangout-somewhere.netlify.app/
 # Make it Yours'
 * Fork this repo
 * Edit html, css as your wish
+* **GO TO [yes.html](!) in <ins> your forked repo </ins>**
+* in `line no. 17` go to function `onclick`
+* remove `9162****982` after `send?phone=` with your number including country tag without `+`.
 * commit changes
 * done!
 
