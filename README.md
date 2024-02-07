@@ -1,4 +1,4 @@
-# Do You waana Hang our W me?
+# Do You waana go on a date with me?
 This code is especially made by [@Untold Coding](https://instagram.com/untoldcoding) aka [Vishal Tiwatia](https://github.com/vishaltewatia/code), mainly to impress your crush!
 
 ### Features
